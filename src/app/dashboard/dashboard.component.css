@@ -1,0 +1,71 @@
+#menu{
+    display: flex;
+}
+.hedar{
+    margin-left: 1.3rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+#id{
+    display: flex;
+}
+#map{
+    height: 420px;
+    width: 620px;
+}
+.shadow{
+    margin-left: 1rem;
+    width: 250px;
+    height: 160px;
+}
+.Status{
+    display: flex;
+}
+.img1{
+    margin: 1rem;
+}
+.para{
+    border-top: 1px solid;
+}
+#Vehicle{
+    width: 780px;
+    height: 260px;
+}
+#Vehicle2{
+    width: 580px;
+    height: 260px;
+}
+#Reminders{
+    height: 260px;
+    width: 400px;
+}
+#Upcominf{
+    height: 260px;
+    width: 400px;
+}
+#coman{
+    display: flex;
+}
+.para2{
+    border-bottom: 1px solid;
+}
+.span1{
+    margin-left: 10rem;
+    color: rgb(255, 155, 33);
+}
+.span2{
+    margin-left: 13rem;
+    color: rgb(214, 135, 39);
+}
+.span3{
+    margin-left: 12rem;
+    color: rgb(211, 136, 44);
+}
+.span4{
+    margin-left: 13.5rem;
+    color: rgb(209, 120, 12);
+}
+.span5{
+    margin-left: 14rem;
+    color: rgb(255, 155, 33);
+}

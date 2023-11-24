@@ -1,0 +1,27 @@
+#menu{
+    background: black;
+    padding-top: 2rem;
+    width:15%;
+    /* padding-bottom: 7rem; */
+    color: blue;
+}
+#menu a{
+    display: flex;
+    margin-top: 2rem;
+    text-decoration: none;
+    color: white;
+    margin-left: 5rem;
+    margin-bottom: 4rem;
+}
+.col-lg-9{
+    margin-top: 2rem;
+}
+.hedar{
+    margin-left: 4rem;
+}
+/* .color{
+    background-color: white;
+    color: black;
+    margin-right: 10rem;
+    /* padding-left: 10rem; */
+/* }  */

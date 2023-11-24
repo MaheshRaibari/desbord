@@ -1,0 +1,24 @@
+<div class="row">
+    <div class="col-lg-3" id="menu" class="rounded-end">
+        <h2 class="hedar">FALCON</h2>
+        <a routerLink="" class="color"> Dashboard</a>
+        <a routerLink="vehicles"> Vehicles</a>
+        <a routerLink="drivers"> Drivers,</a>
+        <a routerLink="Tripslof"> Tripslof,</a>
+        <a routerLink="Calendar"> Calendar,</a>
+        <a routerLink="Fuelhistory"> Fuelhistory</a>
+        <a routerLink="Locations"> Locations,</a>
+        <a routerLink="Reports"> Reports,</a>
+    </div>
+    <div class="col-lg-9">
+        <div class="input-group mb-3 shadow   bg-body-tertiary rounded">
+            <span class="input-group-text">$</span>
+            <input id="input" type="text" class="form-control">
+            <span class="input-group-text">.00</span>
+            <i class="fa fa-check"></i>
+        </div>
+        <div class="router">
+            <router-outlet></router-outlet>
+        </div>
+    </div>
+</div>
